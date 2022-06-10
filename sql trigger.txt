@@ -1,0 +1,6 @@
+create trigger emp_salary 
+before insert
+on 
+employees
+for each row 
+set new.yearly_salary = new.salary*12;
