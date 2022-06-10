@@ -7,4 +7,16 @@ Framework : Laravel<br>
 <br>
 <br>
 <br>
-![Alt text](/posts/path/to/img.jpg "Optional title")
+![alt text](https://github.com/nahid0335/dwater/blob/master/image/1.PNG)
+<br>
+<br>
+![alt text](https://github.com/nahid0335/dwater/blob/master/image/2.PNG)
+<br>
+<br>
+![alt text](https://github.com/nahid0335/dwater/blob/master/image/3.PNG)
+<br>
+<br>
+![alt text](https://github.com/nahid0335/dwater/blob/master/image/4.PNG)
+<br>
+<br>
+![alt text](https://github.com/nahid0335/dwater/blob/master/image/5.PNG)
